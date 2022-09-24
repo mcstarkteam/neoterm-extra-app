@@ -6,7 +6,7 @@ name: Build Extra and Release update
       - extra 
       - "feature/*" 
     tags: 
-      - "v3.0.0" 
+      - "v*.*.*" 
   pull_request: 
     branches: 
       - extra 

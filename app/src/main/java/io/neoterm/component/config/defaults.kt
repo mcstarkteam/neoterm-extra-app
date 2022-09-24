@@ -43,7 +43,7 @@ object NeoTermPath {
   const val SOURCE_FILE = "$USR_PATH/etc/apt/sources.list"
   const val PACKAGE_LIST_DIR = "$USR_PATH/var/lib/apt/lists"
 
-  private const val SOURCE = "https://github.91chi.fun/https://raw.githubusercontent.com/NeoTerm-Extra/neoterm-extra-repo/extra"
+  private const val SOURCE = "https://raw.githubusercontent.com/NeoTerm-Extra/neoterm-extra-repo/extra"
 
   val DEFAULT_MAIN_PACKAGE_SOURCE: String
 

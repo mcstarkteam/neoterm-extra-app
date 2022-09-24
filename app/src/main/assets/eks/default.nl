@@ -3,8 +3,12 @@ extra-key: {
     program: [ default ]
 
     key: [
+    
         {
             code: "-"
+        },
+        {
+            code: "+"
         },
         {
             code: "/"
@@ -24,5 +28,45 @@ extra-key: {
         {
             code: ">"
         }
+        {
+            code: "'"
+        },
+        {
+            code: '"'
+        },
+        {
+            code: "''"
+        },
+        {
+            code: '""'
+        },
+        {
+            code: "&"
+        },
+        {
+            code: "_"
+        },
+        {
+            code: "#"
+        },
+        {
+            code: "="
+        },
+        {
+            code: "@"
+        },
+        {
+            code: "!"
+        },
+        {
+            code: ":"
+        },
+        {
+            code: "{}"
+        },
+        {
+            code: "[]"
+        },
+        
     ]
 }

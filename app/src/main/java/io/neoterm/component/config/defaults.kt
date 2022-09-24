@@ -19,8 +19,8 @@ object DefaultValues {
   const val enableWordBasedIme = false
 
   const val loginShell = "bash"
-  const val initialCommand = "echo 'welcome to neoterm-extra'"
-  const val defaultFont = "SourceCodePro"
+  const val initialCommand = ""
+  const val defaultFont = "UbuntuMono"
 }
 
 object NeoTermPath {
